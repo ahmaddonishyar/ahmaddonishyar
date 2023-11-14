@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Shah Donishyar</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="[https://miro.medium.com/v2/resize:fit:720/0*IjwqslkWZDHTMK9Y.gif](https://miro.medium.com/v2/resize:fit:720/0*IjwqslkWZDHTMK9Y.gif)">
+![img](https://miro.medium.com/v2/resize:fit:720/0*IjwqslkWZDHTMK9Y.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donishyar&label=Profile%20views&color=0e75b6&style=flat" alt="donishyar" /> </p>

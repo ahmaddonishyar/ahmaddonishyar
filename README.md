@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Shah Donishyar</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
-![img](https://miro.medium.com/v2/resize:fit:720/0*IjwqslkWZDHTMK9Y.gif)
+![programming](https://miro.medium.com/v2/resize:fit:720/0*IjwqslkWZDHTMK9Y.gif)
 
 
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Shah Donishyar</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=400 height=400 '></a>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=500 height=400 '></a>
 
 
 

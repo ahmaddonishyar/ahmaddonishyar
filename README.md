@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [not yet](not yet)
 
-- 💬 Ask me about **Html , Css , JS , React**
+- 💬 Ask me about **Laravel , Quasar , Vue , React**
 
 - 📫 How to reach me **ahmadshahdonishyar@gmail.com**
 
